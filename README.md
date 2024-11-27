@@ -4,4 +4,4 @@ practical applications including stock prediction, box office results estimation
 recommendation. This project involves estimating the sentiment of tweets about the COVID-19 pandemic to track
 people’s opinions on major events surrounding it
 
-Refer to main.ipynb to review our research results.
+Refer to Main.ipynb to review our research results.
