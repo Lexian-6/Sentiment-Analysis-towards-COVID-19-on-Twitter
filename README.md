@@ -3,3 +3,5 @@ Sentiment analysis of Tweets is one of the most popular tasks in the NLP space; 
 practical applications including stock prediction, box office results estimation, survey of popular opinions and content
 recommendation. This project involves estimating the sentiment of tweets about the COVID-19 pandemic to track
 people’s opinions on major events surrounding it
+
+Refer to main.ipynb to review our research results.
